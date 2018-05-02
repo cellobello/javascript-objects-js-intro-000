@@ -5,4 +5,6 @@ function updatePlaylist (object, artist, song) {
     return object;
 }
 
-function 
+function removeFromPlaylist(object, artist) {
+  
+}
